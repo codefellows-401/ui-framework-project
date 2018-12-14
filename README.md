@@ -10,7 +10,11 @@
 ### Overall Score and Comments
 #### Score (Out of 10): 9/10
 #### General Comments
-* Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
+* Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications. (MIT License)
+
+* Founded by Evan You in February, 2014. Latest release as of writing: 2.5.17.
+
+* 30.67 KB in production. 279 KB in development.
 
 * Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable (i.e. in small chunks).
 
